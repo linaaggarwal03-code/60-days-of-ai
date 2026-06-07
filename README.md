@@ -42,3 +42,16 @@ comparson
 
 Key Learning
 - Effective prompting is an iterative process. By adding context, defining the desired format, and refining instructions, you can consistently improve the quality and usefulness of AI-generated responses.
+
+## Day 4
+comparson
+- The optimized resume was more concise and professional.
+- ATS-related keywords were added or improved.
+- Important information became easier to identify.
+- Overall readability increased significantly.
+
+key learning
+- A resume should be clear, concise, and ATS-friendly.
+- Proper formatting can improve recruiter visibility.
+- Keywords play an important role in resume screening.
+- AI can help identify weaknesses and suggest improvements.
